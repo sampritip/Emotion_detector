@@ -1,0 +1,17 @@
+1. Install and setup Anaconda in your device.
+2. add Anaconda to your path
+3. create a virtual by running:
+   conda create -n venv python=3.8 anaconda
+4. Activate it using :
+   conda activate venv
+5. Dependencies:
+   OpenCV 3.2+
+   Tensorflow 1.7+
+   Python 3.6+
+6. Installations:
+    pip install fer
+
+
+Labels : angry,disgust,fear,happy,sad,surprise,neutral
+
+
